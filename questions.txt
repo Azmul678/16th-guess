@@ -1,0 +1,36 @@
+Display :;
+1.28 inch;
+1.38 inch;
+1.58 inch;
+1.48 inch;
+1.28 inch;
+|
+Resolution :;
+140 x 180;
+640 x 480;
+440 x 440;
+240 x 240;
+240 x 240;
+|
+Battery Capacity :;
+340mAh;
+540mAh;
+440mAh;
+640mAh;
+340mAh;
+|
+Dustproof & Waterproof Grade :;
+IP67;
+IP68;
+IP53;
+IP55;
+IP68;
+|
+Weight :;
+54g;
+64g;
+34g;
+24g;
+54g;
+|
+
